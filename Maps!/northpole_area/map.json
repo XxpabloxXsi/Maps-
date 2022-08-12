@@ -906,6 +906,7 @@
       "name": "Collision Shape36",
       "properties": {},
       "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
       "points": [
         {
           "x": 1413,
@@ -929,6 +930,7 @@
       "name": "Collision Shape37",
       "properties": {},
       "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
       "points": [
         {
           "x": 1950,
@@ -2350,7 +2352,7 @@
   "supportsCTF": false,
   "supportsCP": false,
   "supportsKOTH": true,
-  "customMapUrl": "https://codeload.github.com/XxpabloxXsi/Levels/zip/refs/heads/main",
+  "customMapUrl": "https://github.com/XxpabloxXsi/Maps-",
   "defaultLargeCam": false,
   "mirrorMapImages": true
 }
