@@ -1,0 +1,5 @@
+1.place the maps in assets
+
+2. CTF maps are preferable to playing in mirror mode
+
+3. the bots are not well programmed because I was lazy o.O

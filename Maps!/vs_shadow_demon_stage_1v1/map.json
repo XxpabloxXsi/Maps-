@@ -1,0 +1,205 @@
+{
+  "name": "vs_shadow_demon_stage_1v1",
+  "path": "maps_custom/vs_shadow_demon_stage_1v1/map.json",
+  "backgroundPath": "maps_custom/vs_shadow_demon_stage_1v1/MegaManX5-Virus-Stage1 (3).png",
+  "width": 458,
+  "height": 238,
+  "supportsLargeCam": false,
+  "mirrorX": 0,
+  "mirroredOnly": false,
+  "shortName": "vs_shadow_demo",
+  "displayName": "shadow demon stage",
+  "instances": [
+    {
+      "name": "Backwall Zone1",
+      "properties": {},
+      "objectName": "Backwall Zone",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 28,
+          "y": 33
+        },
+        {
+          "x": 446,
+          "y": 33
+        },
+        {
+          "x": 446,
+          "y": 184
+        },
+        {
+          "x": 28,
+          "y": 184
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape1",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 2,
+          "y": 199
+        },
+        {
+          "x": 455,
+          "y": 199
+        },
+        {
+          "x": 455,
+          "y": 235
+        },
+        {
+          "x": 2,
+          "y": 235
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape2",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 445,
+          "y": 3
+        },
+        {
+          "x": 457,
+          "y": 3
+        },
+        {
+          "x": 457,
+          "y": 221
+        },
+        {
+          "x": 445,
+          "y": 221
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape3",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": -1,
+          "y": 4
+        },
+        {
+          "x": 32,
+          "y": 4
+        },
+        {
+          "x": 32,
+          "y": 130
+        },
+        {
+          "x": -1,
+          "y": 130
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape4",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": 27,
+          "y": 7
+        },
+        {
+          "x": 453,
+          "y": 7
+        },
+        {
+          "x": 453,
+          "y": 32
+        },
+        {
+          "x": 27,
+          "y": 32
+        }
+      ]
+    },
+    {
+      "name": "Collision Shape5",
+      "properties": {},
+      "objectName": "Collision Shape",
+      "mirrorEnabled": 0,
+      "points": [
+        {
+          "x": -1,
+          "y": 113
+        },
+        {
+          "x": 28,
+          "y": 113
+        },
+        {
+          "x": 28,
+          "y": 201
+        },
+        {
+          "x": -1,
+          "y": 201
+        }
+      ]
+    },
+    {
+      "name": "Spawn Point1",
+      "properties": {},
+      "objectName": "Spawn Point",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 88,
+        "y": 187
+      }
+    },
+    {
+      "name": "Spawn Point2",
+      "properties": {},
+      "objectName": "Spawn Point",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 396,
+        "y": 186
+      }
+    },
+    {
+      "name": "Spawn Point3",
+      "properties": {},
+      "objectName": "Spawn Point",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 120,
+        "y": 188
+      }
+    },
+    {
+      "name": "Spawn Point4",
+      "properties": {},
+      "objectName": "Spawn Point",
+      "mirrorEnabled": 0,
+      "pos": {
+        "x": 369,
+        "y": 188
+      }
+    }
+  ],
+  "parallaxes": [],
+  "mapSpritePaths": [],
+  "supportsCTF": false,
+  "supportsCP": false,
+  "supportsKOTH": false,
+  "customMapUrl": "https://codeload.github.com/XxpabloxXsi/Levels/zip/refs/heads/main",
+  "mirrorMapImages": true
+}
